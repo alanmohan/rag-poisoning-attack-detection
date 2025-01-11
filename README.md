@@ -39,6 +39,11 @@ The work focuses on implementing a black-box sentiment steering attack and devel
 - **F1 Score**: 88.45%
 - **Accuracy**: 83.47%
 
+---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 ## Acknowledgments
 
 This project was completed as part of the **CS F491 Special Project** at **BITS Pilani, Dubai Campus** under the supervision of **Dr. Pranav M. Pawar**. Special thanks to the Computer Science Department for providing guidance and resources.
